@@ -4,7 +4,7 @@ import { useSelector } from "react-redux";
 const Contact = () => {
   const borderClr = useSelector((store) => store.theme.theme);
   return (
-    <div id="contact" className="w-10/12 md:w-6/12 mt-[25%] md:mt-0 mx-auto h-screen scroll-m-25">
+    <div id="contact" className="w-10/12 md:w-6/12 mx-auto min-h-screen py-10 scroll-m-25">
         <div className={`rounded-2xl p-4 shadow-lg ${borderClr ? "border border-gray-700" : "border border-gray-200" }`}>
         <h1 className="flex items-center gap-2 text-2xl font-bold mb-5">
         <span className="h-5 w-5">

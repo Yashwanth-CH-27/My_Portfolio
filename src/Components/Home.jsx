@@ -10,7 +10,7 @@ const Home = () => {
     "Passionate Learner",
   ]
   return (
-    <div id="home" className="mt-[35%] md:mt-[5%] mx-5 md:mx-45 flex flex-col md:flex-row gap-10 md:gap-50 items-center scroll-m-30 h-screen">
+    <div id="home" className="mx-5 md:mx-45 flex flex-col md:flex-row gap-10 md:gap-50 items-center scroll-m-30 min-h-screen py-45">
       <div className="relative flex justify-center items-center w-80 md:w-115 h-80 md:h-115 md:my-5">
         <div className="absolute w-90 md:w-130 h-90 md:h-130 border-2 border-amber-500 shadow-md rounded-full animate-[spin_10s_linear_infinite]">
           <div className="absolute w-4 h-4 bg-amber-500 rounded-full top-0 left-1/2 transform -translate-x-1/2"></div>

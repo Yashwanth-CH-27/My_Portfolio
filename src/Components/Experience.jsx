@@ -5,7 +5,7 @@ import { ForwardIcon } from "@heroicons/react/24/solid";
 const Experience = () => {
   const borderClr = useSelector((store) => store.theme.theme);
   return (
-    <div id="experience" className="w-10/12 mx-auto h-screen scroll-m-25 mt-[100%] md:mt-0">
+    <div id="experience" className="w-10/12 mx-auto min-h-screen py-10 scroll-m-25">
       <h1 className="flex items-center gap-2 text-2xl font-bold mb-5">
         <span className="h-5 w-5">
           <ForwardIcon />

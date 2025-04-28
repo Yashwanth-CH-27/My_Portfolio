@@ -83,7 +83,7 @@ const Projects = () => {
     },
   ];
   return (
-    <div id="projects" className="h-screen mx-auto  scroll-mt-20 w-10/12 mt-[120%] md:mt-0 md:mb-15">
+    <div id="projects" className="min-h-screen py-10 mx-auto  scroll-mt-20 w-10/12  md:mb-15">
       <h1 className="flex items-center gap-2 text-2xl font-bold mb-5">
         <span className="h-5 w-5">
           <ForwardIcon />

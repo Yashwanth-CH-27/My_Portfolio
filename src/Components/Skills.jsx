@@ -74,7 +74,7 @@ const Skills = () => {
   const skillNames = ["React JS", "JavaScript", "Tailwind CSS", "HTML5", "CSS3"];
 
   return (
-    <div id="skills" ref={sectionRef} className="h-screen  mx-auto mt-[25%]  md:mt-0 scroll-m-25 w-10/12">
+    <div id="skills" ref={sectionRef} className="min-h-screen mx-auto mt-[25%]  md:mt-0 scroll-m-25 w-10/12">
       <h1 className="flex items-center gap-2 text-2xl font-bold">
         <span className="h-5 w-5">
           <ForwardIcon />

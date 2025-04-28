@@ -10,7 +10,7 @@ const About = () => {
   return (
     <div
       id="about"
-      className="-mt-[35%] md:-mt-[10%] w-10/12 mx-auto flex flex-col md:flex-row justify-center items-center gap-3 scroll-m-25 md:scroll-m-0 h-screen"
+      className="-mt-[35%] md:-mt-[10%] w-10/12 mx-auto flex flex-col md:flex-row justify-center items-center gap-3 scroll-m-25 md:scroll-m-0 min-h-screen"
     >
       <div className="md:w-8/12 flex flex-col md:flex-row gap-10 items-center">
         <div className="relative flex flex-col items-center justify-center">
