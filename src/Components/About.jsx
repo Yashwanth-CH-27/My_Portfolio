@@ -12,7 +12,7 @@ const About = () => {
       id="about"
       className="-mt-[35%] md:-mt-[10%] w-10/12 mx-auto flex flex-col md:flex-row justify-center items-center gap-3 scroll-m-25 md:scroll-m-0 h-screen"
     >
-      <div className="w-screen md:w-8/12 flex flex-col md:flex-row gap-10 items-center">
+      <div className="md:w-8/12 flex flex-col md:flex-row gap-10 items-center">
         <div className="relative flex flex-col items-center justify-center">
           <div className="absolute w-70 md:w-100 h-70 md:h-100 rounded-full border-2 border-amber-500 shadow-md animate-[spin_10s_linear_infinite]">
             <div className="absolute w-4 h-4 bg-amber-500 rounded-full top-0 left-1/2 transform -translate-x-1/2"></div>
