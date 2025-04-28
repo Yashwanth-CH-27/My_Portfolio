@@ -109,7 +109,7 @@ const Skills = () => {
             </div>
           </div>
           <div>
-            <h1 className="font-medium text-2xl my-5">
+            <h1 className="font-medium text-xl md:text-2xl my-5">
               "Front-End Web Development"
             </h1>
             <div className="font-normal text-xl flex items-center my-3">
