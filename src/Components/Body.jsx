@@ -11,7 +11,7 @@ import Skills from "./Skills"
 
 const Body = () => {
   return (
-    <div className="w-screen">
+    <div className="">
         <Header/>
         <Home/>
         <About/>
