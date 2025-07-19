@@ -35,7 +35,7 @@ const About = () => {
             <span className="text-amber-500 font-medium">Linked In</span>
           </a>
           <a
-            href="https://github.com/Yashwanth-CH-27?tab=repositories"
+            href="https://github.com/Yashwanth-CH-27"
             target="blank"
             className="flex justify-between border-2 border-amber-500 rounded-lg p-2"
           >
