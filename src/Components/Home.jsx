@@ -33,7 +33,7 @@ const Home = () => {
           </p>
           <div className="my-7">
             <a
-              href="/public/Yaswanth_MERN_Stack_Resume.pdf"
+              href="Portfolio/public/Yaswanth_MERN_Stack_Resume.pdf"
               download={"Yash-Resume.pdf"}
               className="border-2 border-amber-500 shadow-md text-amber-500 font-medium p-2 rounded-lg flex items-center space-x-2 w-fit"
             >
